@@ -1,4 +1,7 @@
 # MaliVD
+MaliVD: Source Code Vulnerability Localization via Attention-Based Multi-Modal Learning
+
+MaliVD not only identifies vulnerability types but also pinpoints the specific lines of code where vulnerabilities are triggered. 
 
 ## Requirements
 1. Python=3.6 
